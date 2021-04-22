@@ -1,0 +1,11 @@
+
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ÜèÛ§/
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÉóš8Ş‘Ú§/
+g
+java:S1192"JDefine a constant instead of duplicating this literal "moderator" 3 times.(À¾åà8ã××§/
+s
+java:S1128
+"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ8ÿÖÎ§/
+V
+java:S1128"9Remove this unused import 'com.boot.service.UserService'.(ğôÃ8ÜèÛ§/

@@ -20,6 +20,7 @@
     <h4><a href="/logout">Выйти</a></h4>
   </sec:authorize>
   <h4><a href="/cart">Корзина (только пользователь)</a></h4>
+  <h4><a href="/moderator">Товары (только модераторы)</a></h4>
   <h4><a href="/admin">Пользователи (только админ)</a></h4>
 </div>
 </body>

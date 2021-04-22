@@ -39,3 +39,9 @@ U
 %src/main/webapp/WEB-INF/jsp/admin.jsp,4\4\4455ad1772debd8528d04592cb051bbe4f76db28
 T
 $src/main/webapp/WEB-INF/jsp/cart.jsp,3\8\38b7928b5fc6bafbf51c08e69fd33a0d5bad332b
+Y
+)src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
+i
+9src/main/java/com/boot/controller/ModeratorControler.java,1\5\1544127818144cc1859abfb10f84cd1a4749e262
+Y
+)src/main/webapp/WEB-INF/jsp/moderator.jsp,0\2\02ab19a2c417dd68d8fd515725292793cdee58a5
