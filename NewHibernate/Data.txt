@@ -1,0 +1,48 @@
+[
+{
+	"name": Product1,
+	"description": Descripshion1,
+	"price": 100,
+	"vendor": 1,
+	"discount": 0,
+	"avability": true,
+	"quantity": 12
+},
+{
+	"name": Product2,
+	"description": Descripshion2,
+	"price": 200,
+	"vendor": 2,
+	"discount": 0,
+	"avability": true,
+	"quantity": 12
+},
+{
+	"name": Product3,
+	"description": Descripshion3,
+	"price": 300,
+	"vendor": 3,
+	"discount": 0,
+	"avability": true,
+	"quantity": 12
+},
+{
+	"name": Product4,
+	"description": Descripshion4,
+	"price": 400,
+	"vendor": 4,
+	"discount": 0,
+	"avability": true,
+	"quantity": 12
+},
+{
+	"name": Product5,
+	"description": Descripshion5,
+	"price": 500,
+	"vendor": 5,
+	"discount": 0,
+	"avability": true,
+	"quantity": 12
+}
+]
+
