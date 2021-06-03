@@ -1,0 +1,75 @@
+com/Magazine/entity/User.java
+ com.Magazine.entity.User
+com/Magazine/Main.java
+ com.Magazine.Main
+com/Magazine/controller/AdminController.java
+ com.Magazine.controller.AdminController
+com/Magazine/service/ServiceAddress.java
+ com.Magazine.service.ServiceAddress
+com/Magazine/repository/AddressRepository.java
+ com.Magazine.repository.AddressRepository
+com/Magazine/entity/Product.java
+ com.Magazine.entity.Product
+com/Magazine/controller/RegistrationController.java
+ com.Magazine.controller.RegistrationController
+com/Magazine/controller/ModeratorControler.java
+ com.Magazine.controller.ModeratorControler
+ com.Magazine.controller.ModeratorControler$1
+com/Magazine/service/ServiceBasketProduct.java
+ com.Magazine.service.ServiceBasketProduct
+com/Magazine/entity/Address.java
+ com.Magazine.entity.Address
+com/Magazine/entity/Discount.java
+ com.Magazine.entity.Discount
+com/Magazine/service/ServiceBasket.java
+ com.Magazine.service.ServiceBasket
+com/Magazine/service/ServiceMag.java
+ com.Magazine.service.ServiceMag
+com/Magazine/repository/ProductRepository.java
+ com.Magazine.repository.ProductRepository
+com/Magazine/entity/Basket.java
+ com.Magazine.entity.Basket
+com/Magazine/service/ServiceUser.java
+ com.Magazine.service.ServiceUser
+com/Magazine/repository/OrderHistoryProductRepository.java
+ com.Magazine.repository.OrderHistoryProductRepository
+com/Magazine/entity/OrderHistory.java
+ com.Magazine.entity.OrderHistory
+com/Magazine/repository/RoleRepository.java
+ com.Magazine.repository.RoleRepository
+com/Magazine/service/ServiceOrderHistoryProduct.java
+ com.Magazine.service.ServiceOrderHistoryProduct
+com/Magazine/repository/UserRepositoryAuthentification.java
+ com.Magazine.repository.UserRepositoryAuthentification
+com/Magazine/service/ServiceOrderHistory.java
+ com.Magazine.service.ServiceOrderHistory
+com/Magazine/service/ServiceProduct.java
+ com.Magazine.service.ServiceProduct
+com/Magazine/entity/Role.java
+ com.Magazine.entity.Role
+com/Magazine/repository/UserRepository.java
+ com.Magazine.repository.UserRepository
+com/Magazine/repository/DiscountRepository.java
+ com.Magazine.repository.DiscountRepository
+com/Magazine/service/ServiceDiscount.java
+ com.Magazine.service.ServiceDiscount
+com/Magazine/repository/BasketProductRepository.java
+ com.Magazine.repository.BasketProductRepository
+com/Magazine/repository/BasketRepository.java
+ com.Magazine.repository.BasketRepository
+com/Magazine/service/UserServiceAuthentification.java
+ com.Magazine.service.UserServiceAuthentification
+com/Magazine/config/MvcConfig.java
+ com.Magazine.config.MvcConfig
+com/Magazine/entity/OrderHistoryProduct.java
+ com.Magazine.entity.OrderHistoryProduct
+com/Magazine/config/WebSecurityConfig.java
+ com.Magazine.config.WebSecurityConfig
+com/Magazine/controller/UserController.java
+ com.Magazine.controller.UserController
+com/Magazine/repository/OrderHistoryRepository.java
+ com.Magazine.repository.OrderHistoryRepository
+com/Magazine/entity/UserAuthentification.java
+ com.Magazine.entity.UserAuthentification
+com/Magazine/entity/BasketProduct.java
+ com.Magazine.entity.BasketProduct
